@@ -1,7 +1,5 @@
 # CommandLineInterface
-Java code that simulates CLI commands
-
-Supports commands such as:
+Java code that simulates CLI commands such as:
 echo
 pwd
 cd
