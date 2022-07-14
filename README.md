@@ -11,5 +11,5 @@ touch
 cp
 cp -r
 cat
->>
->
+append
+redirect
